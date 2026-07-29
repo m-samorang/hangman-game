@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # IN THE NAME OF GOD
 
 import random
@@ -349,10 +343,3 @@ if won:
     print(f"You won! The word was: {secret_word}")
 else:
     print(f"You lost! The word was: {secret_word}")
-
-
-# In[ ]:
-
-
-
-
